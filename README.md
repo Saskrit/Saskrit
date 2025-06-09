@@ -1,4 +1,4 @@
-<h2 align="left">HI! I'm saskreet, an IT student from IIC</h2>
+<h2 align="left">HI! I'm Saskreet, an IT student from IIC</h2>
 
 ###
 <div align="center">
