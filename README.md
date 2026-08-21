@@ -28,7 +28,8 @@ Open to roles, freelance, and collaboration.
 
 <p align="left">
   <a href="https://www.saskritbhattarai.com.np" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/Saskreet1" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/saskreetbhattarai62" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/saskreet_bhattarai/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/Saskrit" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -84,33 +85,6 @@ More on my [portfolio →](https://www.saskritbhattarai.com.np)
 
 ---
 
-## GitHub pulse
-
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" alt="coding vibe" />
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saskrit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saskrit's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saskrit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saskrit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saskrit&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</div>
-
----
-
 ## Credentials
 
 ![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -126,7 +100,7 @@ More on my [portfolio →](https://www.saskritbhattarai.com.np)
 
 ### Let's build something useful
 
-[Portfolio](https://www.saskritbhattarai.com.np) · [X / Twitter](https://twitter.com/Saskreet1) · [GitHub](https://github.com/Saskrit)
+[Portfolio](https://www.saskritbhattarai.com.np) · [Facebook](https://www.facebook.com/saskreetbhattarai62) · [Instagram](https://www.instagram.com/saskreet_bhattarai/) · [GitHub](https://github.com/Saskrit)
 
 <br />
 
