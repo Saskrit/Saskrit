@@ -1,4 +1,4 @@
-<h2 align="left">Yo</h2>
+<h2 align="center">Yo</h2>
 
 ###
 <div align="center">
